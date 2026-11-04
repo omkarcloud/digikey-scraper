@@ -302,6 +302,6 @@ No. The API handles all of that. You make a simple GET request and get clean JSO
 
 Reach out anytime. We will solve your query within 1 working day.
 
-[![Contact Us on WhatsApp about DigiKey Scraper](https://raw.githubusercontent.com/omkarcloud/assets/master/images/whatsapp-us.png)](https://api.whatsapp.com/send?phone=918178804274&text=I%20have%20a%20question%20about%20the%20DigiKey%20Scraper%20API.)
+[![Contact Us on WhatsApp about DigiKey Scraper](https://raw.githubusercontent.com/omkarcloud/assets/master/images/whatsapp-us.png)](https://www.omkar.cloud/l/digikey-scraper-github-whatsapp)
 
-[![Contact Us on Email about DigiKey Scraper](https://raw.githubusercontent.com/omkarcloud/assets/master/images/ask-on-email.png)](mailto:happy.to.help@omkar.cloud?subject=DigiKey%20Scraper%20API%20Question)
+[![Contact Us on Email about DigiKey Scraper](https://raw.githubusercontent.com/omkarcloud/assets/master/images/ask-on-email.png)](https://www.omkar.cloud/l/digikey-scraper-github-email)
