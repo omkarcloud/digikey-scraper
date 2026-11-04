@@ -304,4 +304,4 @@ Reach out anytime. We will solve your query within 1 working day.
 
 [![Contact Us on WhatsApp about DigiKey Scraper](https://raw.githubusercontent.com/omkarcloud/assets/master/images/whatsapp-us.png)](https://www.omkar.cloud/l/digikey-scraper-github-whatsapp)
 
-[![Contact Us on Email about DigiKey Scraper](https://raw.githubusercontent.com/omkarcloud/assets/master/images/ask-on-email.png)](https://www.omkar.cloud/l/digikey-scraper-github-email)
+[![Contact Us on Email about DigiKey Scraper](https://raw.githubusercontent.com/omkarcloud/assets/master/images/ask-on-email.png)](mailto:happy.to.help@omkar.cloud?subject=DigiKey%20Scraper%20API%20Question)
